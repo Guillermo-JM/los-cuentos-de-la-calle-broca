@@ -11,6 +11,7 @@
         <title>Los cuentos de la calle broca</title>
         <link rel="shortcut icon" type="image/jpg" href="¡Aquí va dirección!">
         <?php include_once 'app/dependencies.php';?>
+        <!-- Es la primera vez que utilizo Git y Github -->
     </head>
     <body>
         <?php   
